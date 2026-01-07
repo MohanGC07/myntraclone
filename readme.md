@@ -15,7 +15,6 @@ A  e-commerce website clone of Myntra, India's leading online fashion and lifest
 - [Technologies Used](#technologies-used)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🔍 Overview
